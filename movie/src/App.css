@@ -1,0 +1,8 @@
+.divCard{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card{
+    width: 200px;
+}
